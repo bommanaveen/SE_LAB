@@ -1,8 +1,15 @@
-# SE_LAB## 
+# SE_LAB## About
+This repository contains my Software Engineering
+and DevOps practical experiments.
 
-## Q22 - Commit and Push Experiment
+## Technologies Used
+- Git
+- GitHub
+- Docker
+- Kubernetes
+- Jenkins
+- Python
 
-This section demonstrates staging, committing,
-and pushing changes using Git and GitHub.
-
-Status: Completed
+## Objective
+To understand version control, collaboration,
+containerization and CI/CD.
